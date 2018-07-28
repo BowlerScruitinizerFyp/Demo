@@ -1,0 +1,23 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\fyp-programs\\openCV-tutorial\\Demo\\open-cv-2\\openCVLibrary310\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\fyp-programs\\openCV-tutorial\\Demo\\open-cv-2\\openCVLibrary310\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,110,166",
+                        "endColumns": "54,55,56",
+                        "endOffsets": "105,161,218"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\fyp-programs\\openCV-tutorial\\open-cv-2\\openCVLibrary310\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": []
+        }
+    ]
+}

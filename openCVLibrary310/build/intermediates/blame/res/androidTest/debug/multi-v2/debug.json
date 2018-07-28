@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\fyp-programs\\openCV-tutorial\\Demo\\open-cv-2\\openCVLibrary310\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\fyp-programs\\openCV-tutorial\\Demo\\open-cv-2\\openCVLibrary310\\build\\intermediates\\bundles\\debug\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,126",
+                        "endColumns": "70,74",
+                        "endOffsets": "121,196"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\fyp-programs\\openCV-tutorial\\open-cv-2\\openCVLibrary310\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+            "map": []
+        },
+        {
+            "outputFile": "E:\\fyp-programs\\openCV-tutorial\\Demo\\open-cv-2\\openCVLibrary310\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\fyp-programs\\openCV-tutorial\\Demo\\open-cv-2\\openCVLibrary310\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,110,166",
+                        "endColumns": "54,55,56",
+                        "endOffsets": "105,161,218"
+                    }
+                }
+            ]
+        }
+    ]
+}

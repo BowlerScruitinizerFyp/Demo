@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [:openCVLibrary310] E:\fyp-programs\openCV-tutorial\open-cv-2\openCVLibrary310\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\e539ae9f24815b711fe17dc7118b32b5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\eea8aba722acda1da5d18151fa035dc4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\853a18ae4dd0645eb16443eeadada08e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\0d402bcacd51afd056cf3575e932b369\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\fb52a9cb5b7e598310172f40488715ff\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\3200a0fc8e11efa0f9af27d753505e14\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\5a3f347b9fdcec55405db59404f7cf11\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\6eade5a10afff01aa29c3d0337104f3a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\07d1fec39e6f7044de4abd197eec9384\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\8ba21587030cdcb17a57f0c2f1a7259b\AndroidManifest.xml:17:1-31:12
+INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+		ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+		ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\e539ae9f24815b711fe17dc7118b32b5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\e539ae9f24815b711fe17dc7118b32b5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\eea8aba722acda1da5d18151fa035dc4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\eea8aba722acda1da5d18151fa035dc4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\853a18ae4dd0645eb16443eeadada08e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\853a18ae4dd0645eb16443eeadada08e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\0d402bcacd51afd056cf3575e932b369\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\0d402bcacd51afd056cf3575e932b369\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\fb52a9cb5b7e598310172f40488715ff\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\fb52a9cb5b7e598310172f40488715ff\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\3200a0fc8e11efa0f9af27d753505e14\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\3200a0fc8e11efa0f9af27d753505e14\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\5a3f347b9fdcec55405db59404f7cf11\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\5a3f347b9fdcec55405db59404f7cf11\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\6eade5a10afff01aa29c3d0337104f3a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\6eade5a10afff01aa29c3d0337104f3a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\07d1fec39e6f7044de4abd197eec9384\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\07d1fec39e6f7044de4abd197eec9384\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\8ba21587030cdcb17a57f0c2f1a7259b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\8ba21587030cdcb17a57f0c2f1a7259b\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:11:9-40
+activity#upload.firbase.com.opencv_2.MainActivity
+ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+MERGED from [:openCVLibrary310] E:\fyp-programs\openCV-tutorial\open-cv-2\openCVLibrary310\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary310] E:\fyp-programs\openCV-tutorial\open-cv-2\openCVLibrary310\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\e539ae9f24815b711fe17dc7118b32b5\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\e539ae9f24815b711fe17dc7118b32b5\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\eea8aba722acda1da5d18151fa035dc4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\eea8aba722acda1da5d18151fa035dc4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\853a18ae4dd0645eb16443eeadada08e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\853a18ae4dd0645eb16443eeadada08e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\0d402bcacd51afd056cf3575e932b369\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\0d402bcacd51afd056cf3575e932b369\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\fb52a9cb5b7e598310172f40488715ff\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\fb52a9cb5b7e598310172f40488715ff\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\3200a0fc8e11efa0f9af27d753505e14\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\3200a0fc8e11efa0f9af27d753505e14\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\5a3f347b9fdcec55405db59404f7cf11\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\5a3f347b9fdcec55405db59404f7cf11\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\6eade5a10afff01aa29c3d0337104f3a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\6eade5a10afff01aa29c3d0337104f3a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\07d1fec39e6f7044de4abd197eec9384\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\07d1fec39e6f7044de4abd197eec9384\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\8ba21587030cdcb17a57f0c2f1a7259b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\8ba21587030cdcb17a57f0c2f1a7259b\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\e539ae9f24815b711fe17dc7118b32b5\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+		ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+		ADDED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\fyp-programs\openCV-tutorial\open-cv-2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\e539ae9f24815b711fe17dc7118b32b5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\853a18ae4dd0645eb16443eeadada08e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\853a18ae4dd0645eb16443eeadada08e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\0d402bcacd51afd056cf3575e932b369\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\0d402bcacd51afd056cf3575e932b369\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\fb52a9cb5b7e598310172f40488715ff\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\fb52a9cb5b7e598310172f40488715ff\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\3200a0fc8e11efa0f9af27d753505e14\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\3200a0fc8e11efa0f9af27d753505e14\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\5a3f347b9fdcec55405db59404f7cf11\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\5a3f347b9fdcec55405db59404f7cf11\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\6eade5a10afff01aa29c3d0337104f3a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\6eade5a10afff01aa29c3d0337104f3a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\07d1fec39e6f7044de4abd197eec9384\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\07d1fec39e6f7044de4abd197eec9384\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\8ba21587030cdcb17a57f0c2f1a7259b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\8ba21587030cdcb17a57f0c2f1a7259b\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\e539ae9f24815b711fe17dc7118b32b5\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Huma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\e539ae9f24815b711fe17dc7118b32b5\AndroidManifest.xml:27:13-51
